@@ -167,7 +167,7 @@
       "mdast-util-to-hast": "^13.2.1",
       "@babel/core": "^8.0.6",
       "prismjs": "^1.30.0",
-      "ai": "^7.0.127"
+      "ai": "^7.0.128"
     }
   },
   "overrides": {
@@ -189,6 +189,6 @@
     "mdast-util-to-hast": "^13.2.1",
     "@babel/core": "^8.0.6",
     "prismjs": "^1.30.0",
-    "ai": "^7.0.127"
+    "ai": "^7.0.128"
   }
 }
