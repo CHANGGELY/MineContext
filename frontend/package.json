@@ -147,6 +147,48 @@
     "onlyBuiltDependencies": [
       "electron",
       "esbuild"
-    ]
+    ],
+    "overrides": {
+      "lodash": "^4.18.1",
+      "lodash-es": "^4.18.1",
+      "electron": "^44.5.1",
+      "extract-zip": "^2.0.1",
+      "dompurify": "^3.4.16",
+      "js-cookie": "^3.0.8",
+      "http-cache-semantics": "^4.3.0",
+      "mermaid": "^12.1.0",
+      "tar-fs": "^3.1.3",
+      "brace-expansion": "^5.0.12",
+      "browserslist": "^4.29.3",
+      "fast-uri": "^4.2.1",
+      "qs": "^6.16.0",
+      "path-to-regexp": "^8.4.2",
+      "@ai-sdk/provider-utils": "^5.0.53",
+      "mdast-util-to-hast": "^13.2.1",
+      "@babel/core": "^8.0.6",
+      "prismjs": "^1.30.0",
+      "ai": "^7.0.127"
+    }
+  },
+  "overrides": {
+    "lodash": "^4.18.1",
+    "lodash-es": "^4.18.1",
+    "electron": "^44.5.1",
+    "extract-zip": "^2.0.1",
+    "dompurify": "^3.4.16",
+    "js-cookie": "^3.0.8",
+    "http-cache-semantics": "^4.3.0",
+    "mermaid": "^12.1.0",
+    "tar-fs": "^3.1.3",
+    "brace-expansion": "^5.0.12",
+    "browserslist": "^4.29.3",
+    "fast-uri": "^4.2.1",
+    "qs": "^6.16.0",
+    "path-to-regexp": "^8.4.2",
+    "@ai-sdk/provider-utils": "^5.0.53",
+    "mdast-util-to-hast": "^13.2.1",
+    "@babel/core": "^8.0.6",
+    "prismjs": "^1.30.0",
+    "ai": "^7.0.127"
   }
 }
