@@ -22,3 +22,5 @@ overrides:
   "@babel/core": "^8.0.6"
   "prismjs": "^1.30.0"
   "ai": "^7.0.127"
+  "js-yaml": "^4.1.1"
+  "body-parser": "^2.0.2"
