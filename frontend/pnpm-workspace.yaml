@@ -23,4 +23,4 @@ overrides:
   "prismjs": "^1.30.0"
   "ai": "^7.0.127"
   "js-yaml": "^4.1.1"
-  "body-parser": "^2.0.2"
+  "body-parser": "^2.3.0"
